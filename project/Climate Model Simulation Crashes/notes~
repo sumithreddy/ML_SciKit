@@ -1,0 +1,29 @@
+Algorithm : SVC
+
+no.of features : 18
+no.of classes : 2
+
+training: 80%
+
+accuracy : 0.91
+
+
+Algorithm : DecisionTreeClassifier
+
+no.of features : 18
+no.of classes : 2
+
+training: 80%
+
+accuracy : 0.962
+
+Algorithm : RandomForestClassifier
+
+no.of features : 18
+no.of classes : 2
+
+training: 80%
+
+accuracy : 0.944
+ 
+

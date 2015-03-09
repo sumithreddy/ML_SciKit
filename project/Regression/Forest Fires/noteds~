@@ -1,0 +1,27 @@
+Algorithm : DecisionTreeRegressor
+
+no.of features : 12
+
+training: 80%
+
+Mean Absolute Error : 21.6 
+
+
+
+Algorithm : LinearRegression
+
+no.of features : 12
+
+training: 80%
+
+Mean Absolute Error : 24.322 
+
+
+Algorithm : Bayesian Linear Regression
+
+no.of features : 12
+
+training: 80%
+
+Mean Absolute Error : 24.246
+
